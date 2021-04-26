@@ -5,6 +5,8 @@ PyTorch implementation of transformer networks
 ## Transformer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [ImageNet-21K Pretraining for the Masses](http://arxiv.org/abs/2104.10972) | arXiv:2104.10972 [cs] |  | 2021 |
+| [So-ViT: Mind Visual Tokens for Vision Transformer](http://arxiv.org/abs/2104.10935) | arXiv:2104.10935 [cs] |  | 2021 |
 | [Token Labeling: Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet](http://arxiv.org/abs/2104.10858) | arXiv:2104.10858 [cs] |  | 2021 |
 | [Going Deeper with Image Transformers](http://arxiv.org/abs/2103.17239) | arXiv:2103.17239 [cs] |  | 2021 |
 | [Transformer Interpretability Beyond Attention Visualization](http://arxiv.org/abs/2012.09838) | arXiv:2012.09838 [cs] | [github](https://github.com/hila-chefer/Transformer-Explainability) | 2020 |
