@@ -5,6 +5,7 @@ PyTorch implementation of transformer networks
 ## Transformer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Visformer: The Vision-Friendly Transformer](http://arxiv.org/abs/2104.12533) | arXiv:2104.12533 [cs] |  | 2021 |
 | [ImageNet-21K Pretraining for the Masses](http://arxiv.org/abs/2104.10972) | arXiv:2104.10972 [cs] |  | 2021 |
 | [So-ViT: Mind Visual Tokens for Vision Transformer](http://arxiv.org/abs/2104.10935) | arXiv:2104.10935 [cs] |  | 2021 |
 | [Token Labeling: Training a 85.4% Top-1 Accuracy Vision Transformer with 56M Parameters on ImageNet](http://arxiv.org/abs/2104.10858) | arXiv:2104.10858 [cs] |  | 2021 |
