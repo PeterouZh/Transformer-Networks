@@ -5,6 +5,8 @@ PyTorch implementation of transformer networks
 ## Transformer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](http://arxiv.org/abs/2104.11178) | arXiv:2104.11178 [cs, eess] |  | 2021 |
+| [VidTr: Video Transformer Without Convolutions](http://arxiv.org/abs/2104.11746) | arXiv:2104.11746 [cs] |  | 2021 |
 | [Visformer: The Vision-Friendly Transformer](http://arxiv.org/abs/2104.12533) | arXiv:2104.12533 [cs] |  | 2021 |
 | [ImageNet-21K Pretraining for the Masses](http://arxiv.org/abs/2104.10972) | arXiv:2104.10972 [cs] |  | 2021 |
 | [So-ViT: Mind Visual Tokens for Vision Transformer](http://arxiv.org/abs/2104.10935) | arXiv:2104.10935 [cs] |  | 2021 |
