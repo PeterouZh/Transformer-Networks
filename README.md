@@ -24,3 +24,14 @@ PyTorch implementation of transformer networks
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
 | [CondenseNet V2: Sparse Feature Reactivation for Deep Networks](http://arxiv.org/abs/2104.04382) | arXiv:2104.04382 [cs] |  | 2021 |
+
+
+## Meeting
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [Dynamic Convolution: Attention over Convolution Kernels](http://arxiv.org/abs/1912.03458) | arXiv:1912.03458 [cs] |  | 2020 |
+| [CondConv: Conditionally Parameterized Convolutions for Efficient Inference](http://arxiv.org/abs/1904.04971) | arXiv:1904.04971 [cs] |  | 2019 |
+| [Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](http://arxiv.org/abs/1502.01852) | arXiv:1502.01852 [cs] |  | 2015 |
+
+
+
