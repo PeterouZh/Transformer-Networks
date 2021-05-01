@@ -5,6 +5,7 @@ PyTorch implementation of transformer networks
 ## Transformer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [ConTNet: Why Not Use Convolution and Transformer at the Same Time?](http://arxiv.org/abs/2104.13497) | arXiv:2104.13497 [cs] |  | 2021 |
 | [Emerging Properties in Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.14294) | arXiv:2104.14294 [cs] |  | 2021 |
 | [VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](http://arxiv.org/abs/2104.11178) | arXiv:2104.11178 [cs, eess] |  | 2021 |
 | [VidTr: Video Transformer Without Convolutions](http://arxiv.org/abs/2104.11746) | arXiv:2104.11746 [cs] |  | 2021 |
@@ -20,6 +21,10 @@ PyTorch implementation of transformer networks
 | [Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows](http://arxiv.org/abs/2103.14030) | arXiv:2103.14030 [cs] | [github](https://github.com/microsoft/Swin-Transformer) | 2021 |
 | [Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions](http://arxiv.org/abs/2102.12122) | arXiv:2102.12122 [cs] | [github](https://github.com/whai362/PVT), [PVT_Small](exp/PVT/pvt.py) | 2021 |
 
+## Unsupervised
+|  Title  |   Venue  |Code|Year|
+|:--------|:--------:|:--------:|:--------:|
+| [A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning](http://arxiv.org/abs/2104.14558) | arXiv:2104.14558 [cs] |  | 2021 |
 
 ## CNN
 |  Title  |   Venue  |Code|Year|
