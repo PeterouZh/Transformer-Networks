@@ -5,6 +5,7 @@ PyTorch implementation of transformer networks
 ## Transformer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Emerging Properties in Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.14294) | arXiv:2104.14294 [cs] |  | 2021 |
 | [VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text](http://arxiv.org/abs/2104.11178) | arXiv:2104.11178 [cs, eess] |  | 2021 |
 | [VidTr: Video Transformer Without Convolutions](http://arxiv.org/abs/2104.11746) | arXiv:2104.11746 [cs] |  | 2021 |
 | [Visformer: The Vision-Friendly Transformer](http://arxiv.org/abs/2104.12533) | arXiv:2104.12533 [cs] |  | 2021 |
