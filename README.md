@@ -5,6 +5,7 @@ PyTorch implementation of transformer networks
 ## Transformer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [LeViT: A Vision Transformer in ConvNet’s Clothing for Faster Inference](http://arxiv.org/abs/2104.01136) | arXiv:2104.01136 [cs] |  | 2021 |
 | [Co-Scale Conv-Attentional Image Transformers](http://arxiv.org/abs/2104.06399) | arXiv:2104.06399 [cs] |  | 2021 |
 | [Visual Transformer Pruning](http://arxiv.org/abs/2104.08500) | arXiv:2104.08500 [cs] |  | 2021 |
 | [Multiscale Vision Transformers](http://arxiv.org/abs/2104.11227) | arXiv:2104.11227 [cs] |  | 2021 |
