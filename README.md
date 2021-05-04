@@ -5,6 +5,7 @@ PyTorch implementation of transformer networks
 ## Transformer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Co-Scale Conv-Attentional Image Transformers](http://arxiv.org/abs/2104.06399) | arXiv:2104.06399 [cs] |  | 2021 |
 | [Visual Transformer Pruning](http://arxiv.org/abs/2104.08500) | arXiv:2104.08500 [cs] |  | 2021 |
 | [Multiscale Vision Transformers](http://arxiv.org/abs/2104.11227) | arXiv:2104.11227 [cs] |  | 2021 |
 | [Twins: Revisiting Spatial Attention Design in Vision Transformers](http://arxiv.org/abs/2104.13840) | arXiv:2104.13840 [cs] |  | 2021 |
