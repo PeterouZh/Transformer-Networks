@@ -5,6 +5,7 @@ PyTorch implementation of transformer networks
 ## Transformer
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [Multiscale Vision Transformers](http://arxiv.org/abs/2104.11227) | arXiv:2104.11227 [cs] |  | 2021 |
 | [Twins: Revisiting Spatial Attention Design in Vision Transformers](http://arxiv.org/abs/2104.13840) | arXiv:2104.13840 [cs] |  | 2021 |
 | [ConTNet: Why Not Use Convolution and Transformer at the Same Time?](http://arxiv.org/abs/2104.13497) | arXiv:2104.13497 [cs] |  | 2021 |
 | [Emerging Properties in Self-Supervised Vision Transformers](http://arxiv.org/abs/2104.14294) | arXiv:2104.14294 [cs] |  | 2021 |
