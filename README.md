@@ -34,6 +34,7 @@ PyTorch implementation of transformer networks
 ## CNN
 |  Title  |   Venue  |Code|Year|
 |:--------|:--------:|:--------:|:--------:|
+| [MLP-Mixer: An All-MLP Architecture for Vision](https://arxiv.org/abs/2105.01601v1)| | | 2021 |
 | [CondenseNet V2: Sparse Feature Reactivation for Deep Networks](http://arxiv.org/abs/2104.04382) | arXiv:2104.04382 [cs] |  | 2021 |
 
 
